@@ -1,1 +1,1 @@
-My second commit
+Coding is so cool and fun!
